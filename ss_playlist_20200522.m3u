@@ -1,0 +1,453 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2540" group="Sport" logo="https://oisa.tmsimg.com/assets/s10179_h3_aa.png", ESPN
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sport" logo="https://i.imgur.com/k29sgDw.png", Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8
+#EXTINF:0 type="stream" channelId="1328" group="Sport" logo="https://i.imgur.com/6XPNpid.png", Fox Sports
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Education" logo="https://i.imgur.com/TnSvJpd.png", Portal Cultura Pará
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:0 type="stream" channelId="2624" group="Education" logo="https://i.imgur.com/IceKUjf.png", Sesc TV
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2466" name="TV Brasil" group="Education" logo="https://i.imgur.com/Y0lCaVF.png", TV Brasil
+https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
+#EXTINF:0 type="stream" channelId="2467" group="Education" logo="https://i.imgur.com/765Cn9I.png", TV Cultura
+https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2569" group="Education" logo="https://i.imgur.com/aU56c0K.png", TV Escola
+https://video-rvd-lmg.rnp.br/live/ocp(t(FfZfeFx3QG4)r(TOqkzw)a(ut273w)p(d(lCo)k(ow4)m(U1zbeMZOcvuVp_PjPC5VeA)n(a(-xL_Aw)s(yeg)'a(vuk2sg)s(3Rc)))s(s(2h8)b(OVsX9brZ0psZeMaQYt9O46THOxFsPHFB6R_YrLO_lAYLehFKlBcB3utUOhZjyWY7C52ngNY4Ow9Ook29TA)'s(gRY)b(iE9B80a6sOKUZn0UnLJQU_bKwqIDP29GWBxvJz1bQ1ihEmrOuDaUGTinW0l8unt4U9_v4jCwiAC2T6TOa8pgVRIAfsnYG9Y7VoI5EmwQ)'s(A4Q)b(ayZ0dwLn))m(0))/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Education" logo="https://i.imgur.com/LuJkxc6.png", TV UFSC
+http://150.162.188.10:8080/hls/1_hi.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Education" logo="https://i.imgur.com/iwCbtKU.jpg", TV UNESP
+https://video.unesp.br/live/indoor.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://i.imgur.com/FZwHq8k.png", CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:0 type="stream" channelId="57" group="Documentary" logo="https://i.imgur.com/lVXlnL6.png", Discovery
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="2505" group="Kids" logo="https://i.imgur.com/6uoNAAj.png", Discovery Kids
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="41" group="Kids" logo="https://i.imgur.com/yySDkYo.png", Nickelodeon
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="177" group="Entertainment" logo="https://oisa.tmsimg.com/assets/s75586_h3_aa.png", Fox
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png", Fox Premium
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="1303" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/320px-FX-logo.svg.png", FX
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="1973" group="Music" logo="https://i.imgur.com/BMwYjkX.png", MTV Brasil
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="2566" group="Legislative" logo="https://i.imgur.com/UpV2PRk.png", TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Legislative" logo="https://i.imgur.com/UpV2PRk.png", TV Câmara 2
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:0 type="stream" channelId="2567" group="Legislative" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/640px-TV_Senado.svg.png", TV Senado
+http://www.tvmpf.mpf.mp.br:1935/event455/event455.stream_720p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://i.imgur.com/ejp65zr.png", TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://i.imgur.com/bEoN2tt.png", TV Cinec
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:0 type="stream" channelId="2501" group="PREMIUM" aspect-ratio="16:9", AMC
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/5
+#EXTINF:0 type="stream" channelId="2557" group="PREMIUM" aspect-ratio="16:9", WARNER CHANNEL
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/332
+#EXTINF:0 type="stream" channelId="984" group="PREMIUM" aspect-ratio="16:9", VIVA
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/330
+#EXTINF:0 type="stream" channelId="187" group="PREMIUM" aspect-ratio="16:9", Universal Channel
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/326
+#EXTINF:0 type="stream" channelId="-1" group="PREMIUM" aspect-ratio="16:9", TNT SÉRIES
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/294
+#EXTINF:0 type="stream" channelId="1052" group="PREMIUM" aspect-ratio="16:9", TNT
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/292
+#EXTINF:0 type="stream" channelId="2503", A&E HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/2
+#EXTINF:0 type="stream" channelId="1208", A&E SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1
+#EXTINF:0 type="stream" channelId="2501", AMC HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/5
+#EXTINF:0 type="stream" channelId="2501", AMC SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/4
+#EXTINF:0 type="stream" channelId="240", Animal Planet HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/9
+#EXTINF:0 type="stream" channelId="50", Animal Planet SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/8
+#EXTINF:0 type="stream" channelId="2572", Arte 1 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/11
+#EXTINF:0 type="stream" channelId="2572", Arte 1 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/10
+#EXTINF:0 type="stream" channelId="2246", AXN HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/13
+#EXTINF:0 type="stream" channelId="1573", AXN SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/24
+#EXTINF:0 type="stream" channelId="2575", Band Sports HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/28
+#EXTINF:0 type="stream" channelId="2574", Band Sports SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/27
+#EXTINF:0 type="stream" channelId="2718", Bis HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/16
+#EXTINF:0 type="stream" channelId="2718", Bis SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/15
+#EXTINF:0 type="stream" channelId="3330", Boomerang HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/30
+#EXTINF:0 type="stream" channelId="2719", Cartoon Network HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/38
+#EXTINF:0 type="stream" channelId="40", Cartoon Network SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/37
+#EXTINF:0 type="stream" channelId="2888", Cinemax HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/44
+#EXTINF:0 type="stream" channelId="1326", Cinemax SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/43
+#EXTINF:0 type="stream" channelId="-1", CNN Brasil HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036267
+#EXTINF:0 type="stream" channelId="-1", CNN Brasil SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036266
+#EXTINF:0 type="stream" channelId="2595", Combate HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/49
+#EXTINF:0 type="stream" channelId="2595", Combate SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/48
+#EXTINF:0 type="stream" channelId="-1", Copa Libertadores
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032898
+#EXTINF:0 type="stream" channelId="2467", Cultura SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/316
+#EXTINF:0 type="stream" channelId="2577", Curta! HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/55
+#EXTINF:0 type="stream" channelId="2577", Curta! SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/54
+#EXTINF:0 type="stream" channelId="341", Discovery Channel HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/57
+#EXTINF:0 type="stream" channelId="57", Discovery Channel SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/56
+#EXTINF:0 type="stream" channelId="-1", Discovery H&H HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/61
+#EXTINF:0 type="stream" channelId="-1", Discovery H&H SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/60
+#EXTINF:0 type="stream" channelId="2837", Discovery Kids HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/63
+#EXTINF:0 type="stream" channelId="2505", Discovery Kids SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/62
+#EXTINF:0 type="stream" channelId="1508", Discovery Science HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/65
+#EXTINF:0 type="stream" channelId="58", Discovery Science SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/64
+#EXTINF:0 type="stream" channelId="2558", Discovery Theater HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/67
+#EXTINF:0 type="stream" channelId="-1", Discovery Theater SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/66
+#EXTINF:0 type="stream" channelId="-1", Discovery TLC HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/290
+#EXTINF:0 type="stream" channelId="67", Discovery TLC SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/289
+#EXTINF:0 type="stream" channelId="2840", Discovery Turbo HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/69
+#EXTINF:0 type="stream" channelId="2840", Discovery Turbo SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/68
+#EXTINF:0 type="stream" channelId="2890", Discovery World HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/71
+#EXTINF:0 type="stream" channelId="2839", Discovery World SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/70
+#EXTINF:0 type="stream" channelId="2720", Disney Channel HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/73
+#EXTINF:0 type="stream" channelId="19", Disney Channel SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/72
+#EXTINF:0 type="stream" channelId="3331", Disney Junior HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/75
+#EXTINF:0 type="stream" channelId="1197", Disney Junior SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/74
+#EXTINF:0 type="stream" channelId="2258", Disney XD HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/78
+#EXTINF:0 type="stream" channelId="1198", Disney XD SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/77
+#EXTINF:0 type="stream" channelId="3124", E! HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/80
+#EXTINF:0 type="stream" channelId="1188", E! SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/79
+#EXTINF:0 type="stream" channelId="-1", Ei Plus 1*
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715087
+#EXTINF:0 type="stream" channelId="-1", Ei Plus 2*
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032899
+#EXTINF:0 type="stream" channelId="3746", ESPN 2 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/91
+#EXTINF:0 type="stream" channelId="344", ESPN 2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/90
+#EXTINF:0 type="stream" channelId="-1", ESPN Brasil HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/88
+#EXTINF:0 type="stream" channelId="2578", ESPN Brasil SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/87
+#EXTINF:0 type="stream" channelId="-1", ESPN Extra HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755664
+#EXTINF:0 type="stream" channelId="-1", ESPN Extra SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755663
+#EXTINF:0 type="stream" channelId="1263", ESPN HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/86
+#EXTINF:0 type="stream" channelId="2540", ESPN SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/85
+#EXTINF:0 type="stream" channelId="2632", Film & Arts SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038290
+#EXTINF:0 type="stream" channelId="208", Fox HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/107
+#EXTINF:0 type="stream" channelId="205", Fox Life HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/109
+#EXTINF:0 type="stream" channelId="178", Fox Life SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/108
+#EXTINF:0 type="stream" channelId="2604", Fox Premium 1 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/112
+#EXTINF:0 type="stream" channelId="2604", Fox Premium 1 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/111
+#EXTINF:0 type="stream" channelId="2607", Fox Premium 2 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/115
+#EXTINF:0 type="stream" channelId="2607", Fox Premium 2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/114
+#EXTINF:0 type="stream" channelId="177", Fox SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/106
+#EXTINF:0 type="stream" channelId="179", Fox Sports 2 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/121
+#EXTINF:0 type="stream" channelId="170", Fox Sports 2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/120
+#EXTINF:0 type="stream" channelId="2891", Fox Sports HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/118
+#EXTINF:0 type="stream" channelId="1328", Fox Sports SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/117
+#EXTINF:0 type="stream" channelId="-1", Futura HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/123
+#EXTINF:0 type="stream" channelId="2454", Futura SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/122
+#EXTINF:0 type="stream" channelId="1304", FX HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/99
+#EXTINF:0 type="stream" channelId="1303", FX SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/98
+#EXTINF:0 type="stream" channelId="2722", GNT HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/125
+#EXTINF:0 type="stream" channelId="2582", GNT SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/124
+#EXTINF:0 type="stream" channelId="1202", H2 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/169
+#EXTINF:0 type="stream" channelId="1201", H2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/168
+#EXTINF:0 type="stream" channelId="2409", HBO 2 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/174
+#EXTINF:0 type="stream" channelId="935", HBO 2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/173
+#EXTINF:0 type="stream" channelId="2844", HBO Family HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/177
+#EXTINF:0 type="stream" channelId="2584", HBO Family SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/176
+#EXTINF:0 type="stream" channelId="2408", HBO HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/171
+#EXTINF:0 type="stream" channelId="-1", HBO Mundi HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/194
+#EXTINF:0 type="stream" channelId="-1", HBO Mundi SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/193
+#EXTINF:0 type="stream" channelId="2723", HBO Plus HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/179
+#EXTINF:0 type="stream" channelId="2585", HBO Plus SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/178
+#EXTINF:0 type="stream" channelId="-1", HBO Pluse HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/181
+#EXTINF:0 type="stream" channelId="-1", HBO Pluse SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/180
+#EXTINF:0 type="stream" channelId="-1", HBO Pop HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/200
+#EXTINF:0 type="stream" channelId="-1", HBO Pop SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/199
+#EXTINF:0 type="stream" channelId="1330", HBO SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/170
+#EXTINF:0 type="stream" channelId="2843", HBO Signature HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/183
+#EXTINF:0 type="stream" channelId="2583", HBO Signature SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/182
+#EXTINF:0 type="stream" channelId="-1", HBO Xtreme HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/196
+#EXTINF:0 type="stream" channelId="-1", HBO Xtreme SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/195
+#EXTINF:0 type="stream" channelId="1418", HGTV HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/59
+#EXTINF:0 type="stream" channelId="1418", HGTV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/58
+#EXTINF:0 type="stream" channelId="1456", History Channel HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/185
+#EXTINF:0 type="stream" channelId="1455", History Channel SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/184
+#EXTINF:0 type="stream" channelId="-1", ID Investigação Discovery HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/188
+#EXTINF:0 type="stream" channelId="-1", ID Investigação Discovery SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/187
+#EXTINF:0 type="stream" channelId="1200", Lifetime HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/190
+#EXTINF:0 type="stream" channelId="1200", Lifetime SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/189
+#EXTINF:0 type="stream" channelId="2580", Mais Globosat HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/165
+#EXTINF:0 type="stream" channelId="2580", Mais Globosat SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/164
+#EXTINF:0 type="stream" channelId="2589", Megapix HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/202
+#EXTINF:0 type="stream" channelId="2588", Megapix SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/201
+#EXTINF:0 type="stream" channelId="1484", MTV HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/192
+#EXTINF:0 type="stream" channelId="237", MTV Live HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/368
+#EXTINF:0 type="stream" channelId="1973", MTV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/191
+#EXTINF:0 type="stream" channelId="2590", Multishow HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/204
+#EXTINF:0 type="stream" channelId="2590", Multishow SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/203
+#EXTINF:0 type="stream" channelId="2591", Music Box Brazil SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/206
+#EXTINF:0 type="stream" channelId="-1", Nat Geo Kids HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/208
+#EXTINF:0 type="stream" channelId="3778", Nat Geo Kids SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/207
+#EXTINF:0 type="stream" channelId="206", Nat Geo Wild HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/211
+#EXTINF:0 type="stream" channelId="164", Nat Geo Wild SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/210
+#EXTINF:0 type="stream" channelId="207", National Geographic HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/213
+#EXTINF:0 type="stream" channelId="56", National Geographic SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/212
+#EXTINF:0 type="stream" channelId="771", NHK HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038359
+#EXTINF:0 type="stream" channelId="-1", NHK SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038358
+#EXTINF:0 type="stream" channelId="2710", Nick Jr HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/216
+#EXTINF:0 type="stream" channelId="322", Nick Jr SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/215
+#EXTINF:0 type="stream" channelId="334", Nickelodeon HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/219
+#EXTINF:0 type="stream" channelId="41", Nickelodeon SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/218
+#EXTINF:0 type="stream" channelId="2609", Novo Tempo SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/221
+#EXTINF:0 type="stream" channelId="2594", Off HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/223
+#EXTINF:0 type="stream" channelId="2594", Off SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/222
+#EXTINF:0 type="stream" channelId="1497", Paramount Channel HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/226
+#EXTINF:0 type="stream" channelId="1719", Paramount Channel SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/225
+#EXTINF:0 type="stream" channelId="2623", PlayTV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/227
+#EXTINF:0 type="stream" channelId="2499", Polishop TV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038288
+#EXTINF:0 type="stream" channelId="-1", Premiere 1 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/229
+#EXTINF:0 type="stream" channelId="-1", Premiere 2 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/231
+#EXTINF:0 type="stream" channelId="-1", Premiere 2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/230
+#EXTINF:0 type="stream" channelId="-1", Premiere 3 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/233
+#EXTINF:0 type="stream" channelId="-1", Premiere 3 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/232
+#EXTINF:0 type="stream" channelId="-1", Premiere 4 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/236
+#EXTINF:0 type="stream" channelId="-1", Premiere 4 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/235
+#EXTINF:0 type="stream" channelId="-1", Premiere 5 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/238
+#EXTINF:0 type="stream" channelId="-1", Premiere 5 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/237
+#EXTINF:0 type="stream" channelId="-1", Premiere 6 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/64653
+#EXTINF:0 type="stream" channelId="-1", Premiere 6 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/239
+#EXTINF:0 type="stream" channelId="-1", Premiere 7 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/240
+#EXTINF:0 type="stream" channelId="-1", Premiere 8 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/241
+#EXTINF:0 type="stream" channelId="-1", Premiere Clubes HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/244
+#EXTINF:0 type="stream" channelId="-1", Premiere Clubes SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/243
+#EXTINF:0 type="stream" channelId="2593", Prime Box Brazil SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755753
+#EXTINF:0 type="stream" channelId="2896", Space HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/269
+#EXTINF:0 type="stream" channelId="383", Space SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/268
+#EXTINF:0 type="stream" channelId="2898", SporTV 2 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/275
+#EXTINF:0 type="stream" channelId="2600", SporTV 2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/274
+#EXTINF:0 type="stream" channelId="-1", SporTV 3 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/278
+#EXTINF:0 type="stream" channelId="2601", SporTV 3 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/277
+#EXTINF:0 type="stream" channelId="2897", SporTV HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/273
+#EXTINF:0 type="stream" channelId="2599", SporTV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/272
+#EXTINF:0 type="stream" channelId="2147", Studio Universal HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/280
+#EXTINF:0 type="stream" channelId="2625", Studio Universal SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/279
+#EXTINF:0 type="stream" channelId="1192", SyFy HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/283
+#EXTINF:0 type="stream" channelId="73", SyFy SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/282
+#EXTINF:0 type="stream" channelId="3228", TBS SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/286
+#EXTINF:0 type="stream" channelId="895", TCM SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/288
+#EXTINF:0 type="stream" channelId="2603", Telecine Action HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/296
+#EXTINF:0 type="stream" channelId="2603", Telecine Action SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/295
+#EXTINF:0 type="stream" channelId="-1", Telecine Cult HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/299
+#EXTINF:0 type="stream" channelId="2605", Telecine Cult SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/298
+#EXTINF:0 type="stream" channelId="2606", Telecine Fun HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/302
+#EXTINF:0 type="stream" channelId="2606", Telecine Fun SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/301
+#EXTINF:0 type="stream" channelId="2608", Telecine Pipoca HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/305
+#EXTINF:0 type="stream" channelId="2608", Telecine Pipoca SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/304
+#EXTINF:0 type="stream" channelId="2610", Telecine Premium HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/308
+#EXTINF:0 type="stream" channelId="2610", Telecine Premium SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/307
+#EXTINF:0 type="stream" channelId="2611", Telecine Touch HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/310
+#EXTINF:0 type="stream" channelId="2611", Telecine Touch SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/309
+#EXTINF:0 type="stream" channelId="2900", TNT HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/292
+#EXTINF:0 type="stream" channelId="1052", TNT SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/291
+#EXTINF:0 type="stream" channelId="-1", TNT Séries HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/294
+#EXTINF:0 type="stream" channelId="-1", TNT Séries SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/293
+#EXTINF:0 type="stream" channelId="2614", TV Ra Tim Bum SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755752
+#EXTINF:0 type="stream" channelId="-1", Universal Channel HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/326
+#EXTINF:0 type="stream" channelId="187", Universal Channel SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/325
+#EXTINF:0 type="stream" channelId="2902", VH1 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/328
+#EXTINF:0 type="stream" channelId="151", VH1 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/327
+#EXTINF:0 type="stream" channelId="-1", Viva HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/330
+#EXTINF:0 type="stream" channelId="984", Viva SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/329
+#EXTINF:0 type="stream" channelId="2903", Warner Channel HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/332
+#EXTINF:0 type="stream" channelId="2557", Warner Channel SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/331
+#EXTINF:0 type="stream" channelId="-1", Woohoo HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/334
+#EXTINF:0 type="stream" channelId="2617", Woohoo SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/333
+#EXTINF:0 type="stream" channelId="-1", Zoomoo HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/336
+#EXTINF:0 type="stream" channelId="2908", Zoomoo SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/335
+#EXTINF:0 type="stream" channelId="-1" group="PREMIUM" aspect-ratio="16:9", THE CW
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1793.m3u8
